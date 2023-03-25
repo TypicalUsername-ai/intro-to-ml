@@ -8,4 +8,6 @@ dependencies:
   - conda-forge::numpy
   - conda-forge::jupyterlab
   - conda-forge::notebook
+  - conda-forge::pandas
+  - conda-forge::matplotlib
   - pytorch::pytorch
