@@ -2,7 +2,7 @@
 # Course Outline
 
 0. [Basics and introduction]()
-1. [PyTorch fundamentals](./00_pytorch_fundamentals.ipynb)
+1. [PyTorch fundamentals](00_pytorch_fundamentals.ipynb)
 	1. Dealing with tensors
 	2. Tensor operations
 2. [Preprocessing data]()
