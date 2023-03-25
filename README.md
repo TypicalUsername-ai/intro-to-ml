@@ -2,7 +2,7 @@
 # Course Outline
 
 0. [Basics and introduction]()
-1. [PyTorch fundamentals]()
+1. [PyTorch fundamentals](./00_pytorch_fundamentals.ipynb)
 	1. Dealing with tensors
 	2. Tensor operations
 2. [Preprocessing data]()
@@ -15,11 +15,11 @@
 
 # Resources
 
-- [GitHub repo]()
-- [Course Q&A]()
+- [GitHub repo](https://github.com/mrdbourke/pytorch-deep-learning)
+- [Course Q&A](https://github.com/mrdbourke/pytorch-deep-learning/discussions)
 - [Course online book](https://www.learnpytorch.io)
 - [PyTorch website](https://www.pytorch.org)
-- [Pytorch forum]()
+- [Pytorch forum](https://discuss.pytorch.org/)
 
 # Machine learning notes
 
